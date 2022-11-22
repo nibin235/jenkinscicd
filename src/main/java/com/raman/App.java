@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "New Automation Webhook - Poll Scm Testing -124456" );
+        System.out.println( "Maven Testing" );
     }
 }
